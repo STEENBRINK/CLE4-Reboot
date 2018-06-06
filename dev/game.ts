@@ -12,6 +12,7 @@ class Game {
     private healthELement:HTMLElement
     private speed:number
     private health:number
+    private test:number
 
     constructor() {
         this.health=3
